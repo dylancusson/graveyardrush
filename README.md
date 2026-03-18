@@ -4,7 +4,8 @@ A Fast-Paced 3D FPS Survival Experience Developed for CSE 4410: Game Programming
 # Overview
 Graveyard Rush is a stylized first-person shooter where you are trapped in a haunted cemetery. Armed only with a high-powered shotgun, you must survive increasing waves of zombies, manage your movement to avoid being cornered, and achieve the highest score possible before the horde overwhelms you.
 
-#Key Technical Features
+# Key Technical Features
+
 Dynamic AI Pathfinding: Zombies utilize Unity’s NavMesh system to hunt the player through complex graveyard geometry.
 
 Advanced Physics Combat: Implemented BoxCastAll for realistic shotgun spreads and custom Vector3-based knockback to handle impact without physics jitter.
